@@ -16,4 +16,6 @@ VScode / Sts4 Maven project
 
 데이터베이스
 
-<img width="80%" src="https://github.com/minkyi2180/TodoList/assets/130128767/4fcaee8b-b349-4fce-aeed-04b5a7ed388c" >
+<img width="80%" src="https://github.com/minkyi2180/TodoList/assets/130128767/98da9674-33dd-4439-8168-f349914ade75" >
+
+
