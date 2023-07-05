@@ -12,7 +12,7 @@ VScode / Sts4 Maven project
 
 메인 화면
 
-<img width="80%" src="https://github.com/minkyi2180/TodoList/assets/130128767/9db1880d-a2c9-4574-b4a4-620d2f3ca81b">
+<img width="80%" src="https://github.com/minkyi2180/TodoList/assets/130128767/1ec1075b-3827-4f20-b226-adfdc2eb5bf6">
 
 데이터베이스
 
